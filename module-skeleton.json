@@ -1,0 +1,25 @@
+{
+  "repository": "module-organizations-teams-vue-inertia",
+  "capabilityKey": "liberusoftware/organizations-teams",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-organizations-teams-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/boilerplate/nextjs/organizations-teams.md",
+  "presentationPlan": "projects/boilerplate/vue/organizations-teams.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
